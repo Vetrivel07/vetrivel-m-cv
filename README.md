@@ -1,6 +1,6 @@
 # Curriculum vitae
 
-### Visit my [CV](https://vetrivel07.github.io/vetrivel-m-cv/) for more details about me.
+### Visit my [CV](https://vetrivel07.github.io/vetrivel-m-cv/) for more details about me. <br>
 
 [<img src="https://img.shields.io/badge/HTML-Vetrivel%20M%20CV-green?logoColor=green" height="25">](https://vetrivel07.github.io/vetrivel-m-cv/)
 
