@@ -2,4 +2,5 @@
 
 ### Visit my [CV](https://vetrivel07.github.io/vetrivel-m-cv/) for more details about me.
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> pdf
+(https://img.shields.io/badge/Vetrivel%20M%20CV-grey)
+
